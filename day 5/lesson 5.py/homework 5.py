@@ -1,7 +1,7 @@
 print(type("34"))
 print(type(20))
 print(type(3.0))
-print(type("float"))
+print(type("boat"))
 print(type("9.8"))
 
 print(10/3)
